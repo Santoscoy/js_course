@@ -1,4 +1,4 @@
-// Arreglo parte 3
+// Arreglos parte 3
 
 var arr = [
     true,
@@ -26,7 +26,7 @@ var arr = [
                 console.log( this );
             }
         ]
-],
+    ],
 ];
 
 console.log(arr);
