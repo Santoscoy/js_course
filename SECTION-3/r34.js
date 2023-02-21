@@ -91,16 +91,5 @@ console.log( arr );
 // notacion de llaves para estructura de repeticion
 arr = texto.match( /o{2}/ ); 
 console.log( arr );
-arr = texto.match( /o{2,}/ ); // rango de secuencias del caracter 
+arr = texto.match( /o{2,}/ ); // rango de secuencias del caracter
 console.log( arr );
-
-
-
-
-
-
-
-
-
-
-
