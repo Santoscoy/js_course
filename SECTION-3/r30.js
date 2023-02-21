@@ -7,6 +7,8 @@ console.log( a );
 var b = "santoscoy";
 console.log( b );
 
+
+// metodos 
 console.log( b.toUpperCase());
 console.log( b.toLowerCase());
 
