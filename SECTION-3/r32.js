@@ -11,6 +11,7 @@ fecha.setDate( 32 );
 console.log( fecha );
 
 
+// se pueden crear metodos en el prototipo para hacer operaciones con fechas
 
 Date.prototype.sumarDias = function( dias ){
 

@@ -31,7 +31,7 @@ console.log(randomEntre( 1, 6));
 
 console.log( Math.sqrt(4) );
 
-// Exponentes
+// Exponentes primer parametro exponente y segundo parametro exponente
 
 console.log( Math.pow( 7, 2 ));
 
