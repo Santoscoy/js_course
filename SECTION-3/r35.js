@@ -11,7 +11,7 @@ console.log(arr);
 arr = texto.match(/\w{2,2}/ig);
 console.log(arr);
 
-// validacion para numeros
+// validacion para numeros o busqueda de palabras especificas
 texto = "La Respuesta de la suma es: 45 + 60 = 105";
 arr = texto.match(/\d{1,}|respuesta/ig);
 console.log(arr);
