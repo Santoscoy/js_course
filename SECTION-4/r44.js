@@ -78,7 +78,7 @@ console.warn("Ejemplo 5 =========================")
 
 function getNombre( nombre ){
 
-    var nomb = nombre || "sin nombre";
+    var nomb = nombre || "Sin nombre";
     console.log(nomb);
 
 }
