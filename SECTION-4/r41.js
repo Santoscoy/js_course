@@ -59,4 +59,4 @@ var carro2 = {
     marca: "toyota"
 }
 
-console.log(carro.imprimir.call(carro2));
+console.log( carro.imprimir.call( carro2 ) );
