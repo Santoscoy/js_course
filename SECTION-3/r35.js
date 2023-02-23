@@ -15,3 +15,4 @@ console.log(arr);
 texto = "La Respuesta de la suma es: 45 + 60 = 105";
 arr = texto.match(/\d{1,}|respuesta/ig);
 console.log(arr);
+ 
