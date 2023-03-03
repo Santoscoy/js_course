@@ -11,7 +11,7 @@ document.onmousedown = function(arg){
     console.log(arg);
 }
 
-// Para obtener el texto seleccionado con el mous
+// Para obtener el texto seleccionado con el mouse
 
 document.onmouseup = function(){
 
